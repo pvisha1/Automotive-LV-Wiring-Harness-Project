@@ -1,4 +1,3 @@
-# Automotive-LV-Wiring-Harness-Project
 # 👋 Hi, I'm Vishal Patil  
 ### Mechanical Engineer | CAD Designer | Automotive Wiring Harness Learner
 
