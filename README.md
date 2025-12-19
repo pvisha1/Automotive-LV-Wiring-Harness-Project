@@ -27,7 +27,7 @@ I enjoy building *industry-oriented projects*, especially in:
 - ANSYS FEA (stress & deformation)  
 - DFMEA + design optimization  
 
-### 🔹 *Automotive Wiring Harness Project*
+### 🔹 *Automotive HV & LV Wiring Harness Project*
 - Connector selection  
 - Wiring diagram (3D)  
 - Wire sizing as per ISO 19642  
